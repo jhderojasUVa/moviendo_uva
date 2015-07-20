@@ -14,8 +14,13 @@ Copiar todo en un sitio del servidor y hacer que el servidor web apunte a el por
 
 # Directorios
 css - Estilos
+
 js - Javascript
+
 img - Imagenes necesarias (fondo y logo)
+
 music - Musica o sonido de fondo
+
 index.html - Página principal
+
 mensajes.json - JSON con los mensajes de la marquesina
